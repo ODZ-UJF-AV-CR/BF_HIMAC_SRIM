@@ -22,7 +22,6 @@
         Ion        dE/dx      dE/dx     Projected  Longitudinal   Lateral
        Energy      Elec.      Nuclear     Range     Straggling   Straggling
   --------------  ---------- ---------- ----------  ----------  ----------
-999,999 eV    1,495E+01  1,037E+02      78 A        38 A        28 A   
    1,10 keV   1,568E+01  1,048E+02      84 A        41 A        30 A   
    1,20 keV   1,638E+01  1,058E+02      89 A        43 A        32 A   
    1,30 keV   1,705E+01  1,066E+02      95 A        45 A        33 A   
